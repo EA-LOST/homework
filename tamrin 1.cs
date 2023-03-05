@@ -15,7 +15,7 @@ namespace ConsoleApplication1
             Console.WriteLine("enter your score in number form!");
             int score = int.Parse(Console.ReadLine());
 
-            if (score > 20 || score < 0)
+            if (score > 20 && score < 0)
             {
                 Console.WriteLine("please enter a number between 0 and 20!");
                 
