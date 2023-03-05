@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //Ehsan Akbari Reshte IT Term2 Kardani 01111033334003
+            //Ehsan Akbari Reshte IT Term2 Kardani
 
             Console.WriteLine("enter your score in number form!");
             int score = int.Parse(Console.ReadLine());
